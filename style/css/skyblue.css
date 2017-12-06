@@ -1,0 +1,23 @@
+#content-main 		{
+	color: #362422;
+}
+
+#header {
+	background-image: url(../img/topskyblue.jpg);
+}
+
+#linkNav {
+		background-color: #8ecad4;
+}
+
+#content-side 		{
+	background-color: #5bb3c1;
+}
+
+#wrapper {
+	background-color: #5bb3c1;
+}
+
+#footer {
+background-image: url(../img/bottomskyblue.jpg);
+}

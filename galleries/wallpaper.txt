@@ -1,0 +1,14 @@
+# For Windows 95/2000/XP/NT:  Right mouse click on the wallpaper image below
+# If available, choose "Set as Wallpaper" or "Set as Background"
+# If not, choose "Save Image As", then choose a file name and add ".jpg" (Save the image to your desktop so it is easy to find)
+# From the Start menu, go to Settings, Control Panel, then Display, then Background - choose "Browse", go to "Desktop", then open the "jpg" file and Click "OK"
+# 		For Mac OS 9 Holding Ctrl and clicking the image simultaneously, choose "Download Image to Disk"
+# Save the image to your hard drive, preferably in System | Appearance | Desktop Pictures
+# Go to the Apple menu, select "Control Panel" followed by "Appearance" Select the "Desktop" tab
+# In the "Desktop" tab, click "Place picture" and navigate, using the file window that opens for you, to your wallpaper image
+# Select "Position Automatically" from the "Position" pop-up menu
+# Click "Set Desktop"
+# 		For Mac OS X Holding Ctrl and clicking the image simultaneously, choose "Download Image to Disk"
+# Save the image to your hard drive, preferably in Library | Desktop Pictures From the "Finder" menu choose "Preferences"
+# In the "Preferences" window, click "Select Picture" and navigate, using the file window that opens for you, to your wallpaper image
+# Click "Choose" to confirm your choice

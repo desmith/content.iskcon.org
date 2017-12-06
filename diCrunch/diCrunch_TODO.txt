@@ -1,0 +1,3 @@
+﻿The Shakti Mac conversion doesn't currently support the .t character.
+
+The X-Sanskrit conversion doesn't currently support the _.R character.

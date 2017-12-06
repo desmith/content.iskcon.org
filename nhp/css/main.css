@@ -1,0 +1,230 @@
+body{
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: left;
+	margin: 0px;
+	padding: 0px;
+}
+
+#divContent p{
+font-size: 0.8em;
+	padding-left: 4px;
+	margin: 0px;
+	padding-top: 1px;
+	padding-right: 2px;
+	padding-bottom: 1px;
+}
+
+#divContent ul {
+	padding:0;
+	margin:0;
+	font-size: 0.8em;
+	}
+
+#divContent li{
+
+	background-image: url(../img/arrow.gif);
+	background-repeat: no-repeat;
+	background-position: 1px 9px;
+	padding-left: 8px;
+	line-height: 2em;
+	}
+
+#divContent a{
+  color: #000000;
+  text-decoration: none;
+}
+
+#divContent a:hover{
+	text-decoration: underline;
+}
+
+#divContent li a:hover, p a:hover  {
+  color: #666;
+  
+}
+
+
+#divMain {
+	width: 800px;
+	margin-right: auto;
+	margin-left: auto;
+	background-color: #FFFFFF;
+}
+
+h2 {
+	font-size: 1.1em;
+	padding-left: 4px;
+	margin: 0px;
+	padding-top: 3px;
+	padding-right: 0px;
+	padding-bottom: 2px;
+	}
+
+h3 {
+	font-size: 0.8em;
+	padding-left: 1px;
+	margin: 0px;
+	padding-top: 1px;
+	padding-right: 1px;
+	padding-bottom: 1px;
+	}
+
+
+#divContent h3 a{
+	text-decoration: none;
+}
+
+#divContent h3 a:hover{
+	text-decoration: underline;
+}
+
+#divTitle{
+	background-image: url(../img/logo.gif);
+	background-repeat: no-repeat;
+	background-position: right top;
+	font-size: 11px;
+	height: 34px;
+}
+
+#divTitle a{
+	color: #000000;
+}
+
+
+.subMenu{
+	text-align: left;
+	visibility: hidden;
+	position: absolute;
+	left: 150px;
+	top: 70px;
+	font-size: 10px;
+	font-weight: bold;
+	padding: 0px;
+}
+
+
+
+#divFlashPic {
+	margin: 0px;
+	padding: 0px;
+	float: right;
+	height: 235px;
+	width: 510px;
+}
+
+#divTopLeft, #divTopLeft2 {
+	float: left;
+	width: 280px;
+} 
+
+#divTopLeft{
+	height:90px;
+	margin-bottom: 5px;
+}
+
+#divTopLeft2 {
+	height:140px;
+}
+
+.clearer {
+	margin: 0px;
+	padding: 0px;
+	clear: both;
+	width: 790px;
+	height: 1px;
+	font-size: 1px;
+	line-height: 1px;
+}
+
+#divBottomLeft, #divBottomCentre, #divBottomRight {
+	height: 130px;
+	border-top: 1px solid #666;
+	border-bottom: 1px solid #666;
+	overflow: hidden;
+	margin-top:8px;
+}
+
+#divBottomLeft {
+	width: 280px;
+	float:left;
+	margin-right: 10px;
+	}
+
+#divBottomCentre {
+	width: 250px;
+	float:left;
+	margin-right: 5px;
+}
+
+#divBottomRight {
+	width: 255px;
+	float:right;
+}
+
+img{
+	margin: 0px;
+	padding: 0px;
+}
+
+img.left {
+		float: left;
+}
+
+img.right {
+		float: right;
+}
+#divBottomNav {
+	font-size: 0.7em;
+padding-left:5px;
+}
+
+/* Bottom Line Navs*/
+
+#divBottom1, #divBottom2, #divBottom3, #divBottom4, #divBottom5, #divBottom6{
+height: 128px;
+margin-top:8px;
+margin-bottom:8px;
+}
+
+#divBottom1, #divBottom2 {
+width: 137px;
+}
+
+#divBottom3, #divBottom4 {
+width: 122px;
+margin-right: 6px;
+}
+
+#divBottom5, #divBottom6 {
+width: 124px;
+}
+
+#divBottom5{
+margin-right: 6px;
+}
+
+#divBottom1{
+	margin-right: 6px;
+}
+
+
+#divBottom2 {
+margin-right:10px;
+}
+
+
+.divLeft {
+	float: left;
+	}
+
+.divRight {
+	float: right;
+	}
+	
+.divLeft, .divRight {	
+	border-bottom: double 3px; 
+}
+#divTitle img {
+	padding-top: 8px;
+	padding-left: 20px;
+}

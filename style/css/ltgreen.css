@@ -1,0 +1,23 @@
+#content-main 		{
+	color: #362422;
+}
+
+#header {
+	background-image: url(../img/topltgreen.jpg);
+}
+
+#linkNav {
+		background-color: #95c56f;
+}
+
+#content-side 		{
+	background-color: #95c56f;
+}
+
+#wrapper {
+	background-color: #95c56f;
+}
+
+#footer {
+background-image: url(../img/bottomltgreen.jpg);
+}

@@ -1,0 +1,34 @@
+body{
+	background-image: url(../img/gradient.jpg);
+	background-repeat: repeat-x;
+}
+
+#divContent h2, #divContent h3, #divContent h3 a {
+
+	background-color: #C7F464;
+	color:#000000;
+}
+
+#divFlashPic {
+	background-color: #FAE4C5;
+}
+
+#divTopLeft, #divTopLeft2 {
+	background-color: #FFCF63;
+} 
+
+#divBottomLeft {
+	background-color: #FF9A31;
+}
+
+#divBottomCentre, .divLeft, .divRight{
+	background-color: #FFCF63;
+}
+
+#divBottomRight {
+	background-color: #FFCF9C;
+}
+
+.divLeft, .divRight{
+border-bottom: #C7F464;
+}

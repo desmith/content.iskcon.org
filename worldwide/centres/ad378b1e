@@ -1,0 +1,626 @@
+<html><!-- #BeginTemplate "/Templates/worldwide_layout.dwt" --><!-- DW6 -->
+<head>
+<!-- #BeginEditable "doctitle" --> 
+
+<title>iskcon.com - Worldwide</title>
+
+<!-- #EndEditable --> 
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="/css/pk01.css" type="text/css">
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function P7_autoLayers() { //v1.4 by PVII
+ var g,b,k,f,args=P7_autoLayers.arguments;a=parseInt(args[0]);if(isNaN(a))a=0;
+ if(!document.p7setc){p7c=new Array();document.p7setc=true;for(var u=0;u<10;u++){
+ p7c[u]=new Array();}}for(k=0;k<p7c[a].length;k++){if((g=MM_findObj(p7c[a][k]))!=null){
+ b=(document.layers)?g:g.style;b.visibility="hidden";}}for(k=1;k<args.length;k++){
+ if((g=MM_findObj(args[k]))!=null){b=(document.layers)?g:g.style;b.visibility="visible";f=false;
+ for(var j=0;j<p7c[a].length;j++){if(args[k]==p7c[a][j]) {f=true;}}
+ if(!f){p7c[a][p7c[a].length++]=args[k];}}}
+}
+
+function P7_hideDiv(evt) { //v1.3 by PVII
+ var b,relT,mT=false; 
+ if(document.layers){b=evt.target;if(b.p7aHide){
+  b.visibility="hidden";}else{routeEvent(evt);}
+ }else if(document.all&&!window.opera){b=event.srcElement;
+  while(b!=null){if(b.tagName=="DIV" && b.p7ahD){mT=true;break;}b=b.parentElement;}
+  if(!b.contains(event.toElement)){b.style.visibility="hidden";}
+ }else if(document.getElementById){b=evt.currentTarget;relT=evt.relatedTarget;
+  while(relT!=null){if(b==relT){mT=true;break;}
+  relT=relT.parentNode;}if(!mT){b.style.visibility="hidden";}}
+}
+
+function P7_autoHide() { //v1.3 by PVII
+ var i,g,args=P7_autoHide.arguments;
+ for(i=0;i<args.length;i++){if((g=MM_findObj(args[i]))!=null){
+  g.p7aHide=true;if(document.layers){
+  g.captureEvents(Event.MOUSEOUT);}g.onmouseout=P7_hideDiv;g.p7ahD=true;}}
+}
+//-->
+</script>
+</head>
+
+<body bgcolor="#FFFFFF" text="#000000" leftmargin="0" topmargin="0" onLoad="P7_autoHide('NewsDetail','CultureDetail','BasicsDetail','ICJDetail','WorlDetail','AboutDetail')">
+<!-- #BeginLibraryItem "/Library/pageTop.lbi" -->
+<div id="TopBar" style="position:absolute; left:265px; top:0px; width:480px; height:20px; z-index:99; visibility: visible;">
+  <table width="486" border="0" cellpadding="0" cellspacing="0" class="PageTopLinks">
+    <tr>
+      <td width="43" onmouseover="P7_autoLayers(0,'Blank')"><a href="../../index.html">Home</a></td>
+      <td width="4">&middot;</td>
+      <td width="42" onmouseover="P7_autoLayers(0,'NewsDetail')"><a href="../../new/index.html">News</a></td>
+      <td width="10">&middot;</td>
+      <td width="45" onmouseover="P7_autoLayers(0,'AboutDetail')"><a href="../../about/index.html">about</a></td>
+      <td width="4">&middot;</td>
+      <td width="90" onmouseover="P7_autoLayers(0,'WorlDetail')"><a href="../index.html">worldwide</a></td>
+      <td width="4">&middot;</td>
+      <td width="62" onmouseover="P7_autoLayers(0,'CultureDetail')"><a href="../../culture/index.html">culture</a></td>
+      <td width="4">&middot;</td>
+      <td width="26" onmouseover="P7_autoLayers(0,'ICJDetail')"><a href="../../icj/index.html">icj</a></td>
+      <td width="4">&middot;</td>
+      <td width="75" onmouseover="P7_autoLayers(0,'BasicsDetail')"><a href="../../education/index.htm">Education</a></td>
+      <td width="4">&middot;</td>
+      <td width="69" onmouseover="P7_autoLayers(0,'Blank')"><a href="../../site_info/index.html">site
+          info</a> </td>
+    </tr>
+  </table>
+</div>
+<div id="NewsDetail" style="position:absolute; left:295px; top:-12px; width:435px; z-index:2; visibility: hidden;">
+  <table width="50" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td>&nbsp;</td>
+    </tr>
+  </table>
+  <table width="435" border="0" cellpadding="0" cellspacing="0" class="PageTopLinksSubMenu">
+    <tr>
+      <td><a href="../../new/index.html#in">ISKCON News</a> &middot; <a href="../../myIskcon/gallery.htm">Photo
+          Gallery</a> &middot; <a href="../../new/index.html#rn">Religion News</a> &middot; <a href="../../new/index.html#me">Media
+          Eye</a> &middot; <a href="../../new/index.html#hn"></a><a href="../../new/index.html#hn">Hinduism
+          News</a> <a href="../../new/index.html#me"></a> &middot; <a href="../../new/archive.htm">Archive</a></td>
+    </tr>
+  </table>
+</div>
+<div id="CultureDetail" style="position:absolute; left:295px; top:-12px; width:455px; z-index:5; height: 47px; visibility: hidden;">
+  <table width="155" border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td>&nbsp;</td>
+    </tr>
+  </table>
+  <table width="474" border="0" cellpadding="0" cellspacing="0" class="PageTopLinksSubMenu">
+    <tr>
+      <td><a href="../../culture/index.html">Culture Home</a> &middot; <a href="../../culture/festival_year/index.html">Festival
+          Year</a> &middot; <a href="../../culture/holy_places/index.html">Holy
+          Places</a> &middot; <a href="../../culture/visual_arts/index.html">Galleries</a> &middot; <a href="../../culture/music/index.html">Music</a> &middot; <a href="../../culture/food/index.html">Food</a></td>
+    </tr>
+  </table>
+</div>
+<div id="BasicsDetail" style="position:absolute; left:396px; top:-12px; width:435px; z-index:6; visibility: hidden;">
+  <table width="155" border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td>&nbsp;</td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellpadding="0" cellspacing="0" class="PageTopLinksSubMenu">
+    <tr>
+      <td><a href="../../education/index.htm">Education Home</a> &middot; <a href="../../education/audio.htm">Audio</a> &middot; <a href="../../education/mtebooks.htm">Handbooks</a> &middot; <a href="../../education/index.htm">Centres</a></td>
+    </tr>
+  </table>
+</div>
+<div id="ICJDetail" style="position:absolute; left:295px; top:-12px; width:455px; z-index:6; visibility: hidden; height: 45px;">
+  <table width="155" border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td>&nbsp;</td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellpadding="0" cellspacing="0" class="PageTopLinksSubMenu">
+    <tr>
+      <td><a href="../../icj/index.html">ICJ Home </a> &middot; <a href="../../icj/contents.html">Issues
+          Online</a> &middot; <a href="../../icj/article_authors.html">Articles
+          by Author</a> &middot; <a href="../../icj/article_index.html">Articles
+          by Title</a> &middot; <a href="../../icj/info.html">Info</a> &middot; <a href="../../icj/subscriptions.html">Subscribe</a></td>
+    </tr>
+  </table>
+</div>
+<div id="WorlDetail" style="position:absolute; left:295px; top:-12px; width:435px; z-index:5; visibility: hidden;">
+  <table width="155" border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td>&nbsp;</td>
+    </tr>
+  </table>
+  <table width="435" border="0" cellpadding="0" cellspacing="0" class="PageTopLinksSubMenu">
+    <tr>
+      <td><a href="../index.html">Worldwide Home</a> &middot; <a href="index.html">Centres</a> &middot; <a href="../projects/index.html">Projects</a></td>
+    </tr>
+  </table>
+</div>
+<div id="AboutDetail" style="position:absolute; left:295px; top:-12px; width:445px; z-index:4; height: 47px; visibility: hidden;">
+  <table width="155" border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td>&nbsp;</td>
+    </tr>
+  </table>
+  <table width="445" border="0" cellpadding="0" cellspacing="0" class="PageTopLinksSubMenu">
+    <tr>
+      <td><a href="../../about/index.html">About Home</a> &middot; <a href="../../about/mission.html">Mission</a> &middot; <a href="../../about/philosophy.html">Philosophy</a> &middot; <a href="../../about/structure.html">Structure</a> &middot; <a href="../../about/history.html">History</a> &middot; <a href="../../about/parampara/index.html">Succession</a></td>
+    </tr>
+  </table>
+</div>
+<!-- #EndLibraryItem --><a name="top"></a>
+<table width="770" border="0" cellspacing="0" cellpadding="0" bgcolor="#000033" height="35">
+  <tr> 
+    <td> 
+      <table width="770" border="0" cellspacing="0" cellpadding="0" height="35" bgcolor="#000033">
+        <tr> 
+          <td width="244"> 
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr> 
+                <td width="24%"><a href="../../index.html"><img src="../../images/gold_logo_sm.gif" width="58" height="35" alt="iskcon.com" border="0"></a></td>
+                <td width="76%"><a href="../../index.html"><img src="../../images/iskcon_com_logo_gy.gif" width="138" height="25" border="0"></a></td>
+              </tr>
+            </table>
+          </td>
+          <td width="526" valign="top">&nbsp;</td>
+        </tr>
+        <tr> 
+          <td colspan="2" height="2"><img src="../../images/trans_1x1.gif" width="1" height="2"></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+<table width="770" border="0" cellspacing="0" cellpadding="0" class="para" bgcolor="#669999">
+  <tr> 
+    <td class="iskcon" width="15">&nbsp;</td>
+    <td class="iskcon"><!-- #BeginEditable "reminder bar" -->
+      <p><a href="../../index.html" class="paralink">Home</a> &gt;<a href="../index.html" class="paralink"> 
+        Worldwide Home</a> &gt; <a href="index.html" class="paralink">Centres 
+        Worldwide</a> &gt; <b>CIS</b></p>
+      <!-- #EndEditable --></td>
+  </tr>
+</table>
+<table width="770" border="0" cellspacing="0" cellpadding="0" height="375" class="iskcon">
+  <tr> 
+    <td colspan="3" height="2"><img src="../../images/trans_1x1.gif" width="1" height="1"></td>
+  </tr>
+  <tr> 
+    <td width="140" valign="top" bgcolor="#d8f1e4"> 
+      <table width="139" border="0" cellspacing="0" cellpadding="0" class="para">
+        <tr> 
+          <td width="10">&nbsp;</td>
+          <td width="129" class="iskcon_sm1" height="130"><a href="../index.html"><img src="../../images/world.jpg" width="115" height="115" border="1" alt="ISKCON Worldwide"></a></td>
+        </tr>
+        <tr> 
+          <td width="10">&nbsp;</td>
+          <td width="129" class="iskcon_sm1"><b class="iskcon">SECTION GUIDE</b></td>
+        </tr>
+        <tr> 
+          <td width="10"> 
+            <div align="center"><b>&middot;</b></div>
+          </td>
+          <td width="129"><a href="index.html" class="paralink">Centres</a></td>
+        </tr>
+        <tr> 
+          <td width="10"> 
+            <div align="center"><b>&middot;</b></div>
+          </td>
+          <td width="129"><a href="../projects/index.html" class="paralink">Devotee 
+            Projects</a></td>
+        </tr>
+        <tr> 
+          <td width="10"> 
+            <div align="center"><b>&middot;</b></div>
+          </td>
+          <td width="129"><a href="../index.html" class="paralink">Worldwide 
+            Home</a></td>
+        </tr>
+        <tr> 
+          <td width="10"> 
+            <div align="center"><b>&middot;</b></div>
+          </td>
+          <td width="129"><a href="../../index.html" class="paralink">Home</a></td>
+        </tr>
+        <tr> 
+          <td width="10">&nbsp;</td>
+          <td width="129">&nbsp;</td>
+        </tr>
+      </table>
+    </td>
+    <td width="2">&nbsp;</td>
+    <td valign="top" bgcolor="#d8f1e4"> 
+      <table width="615" border="0" cellspacing="0" cellpadding="0" class="para" align="right">
+        <tr> 
+          <td height="50" class="titles" valign="bottom"><!-- #BeginEditable "Page title here" --><span class="title_big"><font color="#669999">Commonwealth 
+            of Independent States (CIS)</font></span><!-- #EndEditable --></td>
+          <td height="50" class="titles_2" valign="bottom">&nbsp;</td>
+        </tr>
+        <tr> 
+          <td width="490" valign="top"> <!-- #BeginEditable "insert main text/graphics/links here" -->
+            <p><b>RUSSIA</b> 
+<p align=LEFT><b>Astrahan<br>
+
+              </b>141052, 8-59, Botvina st. <br>
+
+              Tel. +7 (8510) 28-9431 Chita<br>
+
+              27, Kurnatovskogo st. <br>
+
+              Tel. +7 (30222) 23-4971 or -0911 <br>
+
+              E-mail: <a href="mailto:kar@rex.chita.ru" class="maintext">kar@rex.chita.ru</a> 
+
+            <p align=LEFT> <b>Ekaterinburg<br>
+
+              </b>620078, G. Ekaterinburg, per. Otdelniy 5DK VOG <br>
+
+              Tel. +7 (3432) 74-2200 or 49-5262 <br>
+
+              E-mail: <a href="mailto:ekaterinburg@cis.bbt.se" class="maintext"> 
+
+              ekaterinburg@cis.bbt.se</a> 
+
+            <p align=LEFT> <b>Irkutsk<br>
+
+              </b>st. Krimskaya 6A <br>
+
+              Tel. (3952) 38-71-32 or 3240-62 <br>
+
+              E-mail: <a href="mailto:iosk@iosk.irkutsk.su" class="maintext">iosk@iosk.irkutsk.su 
+
+              </a> 
+
+            <p align=LEFT><b>Kazan<br>
+
+              </b>13, Sortirovochnaya st, pos.Yudino <br>
+
+              Tel. +7 (8432) 55-2529 or 42-9991 
+
+            <p align=LEFT><b>Krasnodar<br>
+
+              </b>418, Stepnaya st, selo Elizavetinskoye, Krsnodarski krai <br>
+
+              Tel. +7 (8612) 50-1694 
+
+            <p align=LEFT><b>Kurjinovo<br>
+
+              </b>8, Shosseinaya st, pos. Ershovo, Urupski region, Karachayevo-Cherkessia 
+
+            <p align=LEFT><b>Moscow<br>
+
+              </b> 83, Khoroshevskoye sh. (mail: P.O. Box 69), 125284 <br>
+
+              Tel. +7 (095) 255-6711 Tel. &amp; fax: +7 (095) 945-3317 
+
+            <p align=LEFT><b>Moscow<br>
+
+              </b>Nekrasovsky pos, Dmitrovsky reg, 141700 <br>
+
+              Tel. +7 (095) 577-8543, -8601, or -8775 Fax: +7 (095) 446-4746 
+
+            <p align=LEFT><b>Murmansk<br>
+
+              </b>16, Frolova st. (mail: P.O. Box 5823) <br>
+
+              Tel. +7 (8152) 58-9284 <br>
+
+              E-mail: <a href="mailto:upendra@mun.rospac.ru" class="maintext">upendra@mun.rospac.ru</a> 
+
+            <p align=LEFT> <b>Nijny Novgorod<br>
+
+              </b>14b, Chernigovskaya st. <br>
+
+              Tel. +7 (8312) 30-5197 or 25-2592 <br>
+
+              E-mail: <a href="mailto:info@iskcon.nnov.ru" class="maintext">info@iskcon.nnov.ru</a> 
+
+            <p align=LEFT><b>Novorossiysk<br>
+
+              </b>117, Shillerovskaya st. <br>
+
+              Tel. +7 (86134) 38-926 or 51-415 
+
+            <p align=LEFT><b>Novosibirsk <br>
+
+              </b>82 Kholodilynaya st, 630001 <br>
+
+              Tel. +7 (3832) 46-2655 or -2666 
+
+            <p align=LEFT><b>Omsk<br>
+
+              </b>664099, 42 10th Severnaya st. (mail: P.O. Box 8741) <br>
+
+              Tel. +7 (3812) 24-5310 or 41-4051 
+
+            <p align=LEFT><b>Perm<br>
+
+              </b>12, Verhnekuryinskaya st, 614065 <br>
+
+              Tel. +7 (3422) 33-5740 or 27-0681 <br>
+
+              E-mail: <a
+
+ href="mailto:fþ@pi.ccl.ru" class="maintext">ffl@pi.ccl.ru</a> 
+
+            <p align=LEFT><b>Rostov-Na-Donu<br>
+
+              </b>841, Saryana st, 344025 (mail: P.O. Box 64, 344007) <br>
+
+              Tel. &amp; fax: +7 (8632) 51-0456 
+
+            <p align=LEFT><b>Samara<br>
+
+              </b>122, Aeroportovskoye sh, Zubchininovka <br>
+
+              Tel. +7 (8462) 97-0318 or -0323 
+
+            <p
+
+ align=LEFT><b>Simbirsk<br>
+
+              </b>10, Glinki st, 432002 <br>
+
+              Tel. +7 (8422) 21-4016 
+
+            <p align=LEFT><b>Sochi<br>
+
+              </b>81a, Lesnaya st, Bytha <br>
+
+              Tel. +7 (8622) 98-5639&nbsp; Tel. &amp; fax: +7 (8622) 97-2483 
+
+            <p align=LEFT><b>Ulan-Ude<br>
+
+              </b>670013, Prirechnaya str. 23 <br>
+
+              Tel. +7 (3012) 30-795 <br>
+
+              E-mail: <a href="mailto:abpchk@burnet.siberia.ru" class="maintext">abpchk@burnet.siberia.ru</a> 
+
+            <p align=LEFT> <b>Vladimir<br>
+
+              </b>60000, Nikolo-Galeyskaya st. 5625 <br>
+
+              Tel. +7 (0922) 32-6726 <br>
+
+              E-mail: <a href="mailto:vladimir@cis.bbt.se" class="maintext">vladimir@cis.bbt.se</a> 
+
+            <p align=LEFT><b>Vladivostok <br>
+
+              </b>5­1, Rudneva st, 690087 <br>
+
+              Tel. +7 (4232) 23-6685 
+
+            <p><b>RESTAURANTS</b> 
+
+            <p align=LEFT><b>Ekaterinburg<br>
+
+              </b> Sankirtana, 33 Bardina st. <br>
+
+              Tel. +7 (3432) 41-2737 
+
+            <p align=LEFT><b>St. Petersburg<br>
+
+              </b>Govinda's, 58, Angliysky pr, 190008 <br>
+
+              Tel. +7 (812) 113-7896 
+
+            <p align=LEFT><b>Vladivostok<br>
+
+              </b> Gopal's, 1012, Oleansky pr. <br>
+
+              Tel. +7 (4232) 26-8943 <br>
+
+              E-mail: <a href="mailto:vrajendra.kumar.pvs@pamho.net" class="maintext">vrajendra.kumar.pvs@pamho.net</a> 
+
+            <p> 
+
+            <p><b>UKRAINE</b> 
+
+            <p align=LEFT><b>Dnepropetrovsk<br>
+
+              </b>Kalininskiy spusk 39 <br>
+
+              Tel. +73 (0562) 42-3631 or 45-4709<br>
+
+              E-mail: <a href="mailto:vibhuti@iskcon.dp.ua" class="maintext">vibhuti@iskcon.dp.ua</a> 
+
+            <p align=LEFT> <b>Donetsk <br>
+
+              </b>22, Rubensa st, Makeyevka 339018 <br>
+
+              Tel. +380 (0622) 94-9104 or -3140 <br>
+
+              E-mail: <a href="mailto:premada@iskcon.donetsk.ua" class="maintext">premada@iskcon.donetsk.ua</a> 
+
+            <p align=LEFT> <b>Kharkov<br>
+
+              </b>43, Verhnegiyovskaya st, Holodnaya Gora, 310015 <br>
+
+              Tel. +380 (0572) 20-2167 or 72-6869 <br>
+
+              E-mail: <a href="mailto:kharkov@iskcon.kharkov.ua" class="maintext">kharkov@iskcon.kharkov.ua</a> 
+
+            <p align=LEFT> <b>Kiev<br>
+
+              </b>Dmitrievskaya, 21-13 <br>
+
+              Tel. +380 (044) 219-1041 or -1042&nbsp; Tel. &amp; fax: +380 (044) 
+
+              244-4934 <br>
+
+              E-mail: <a href="mailto:kiev@pamho.net" class="maintext">kiev@pamho.net</a> 
+
+            <p align=LEFT> <b>Kiev<br>
+
+              </b>16, Zorany per, 254078 <br>
+
+              Tel. +380 (044) 433-8312, or 434-7028 or -5533 <br>
+
+              E-mail: <a href="mailto:kiev@pamho.net" class="maintext">kiev@pamho.net</a> 
+
+            <p align=LEFT><b>Lvov<br>
+
+              </b>4, Aurora st, Bldg. No. 4, 290032 <br>
+
+              Tel. +380 (0322) 33-3106 or 72-8756 
+
+            <p align=LEFT><b>Nikolaev<br>
+
+              </b>5-8, Sudostroitelny per, 327052 <br>
+
+              Tel. +380 (0510) 35-1734 <br>
+
+              E-mail: <a href="mailto:vandya@iskcon.aip.nikolaev.ua" class="maintext">vandya@iskcon.aip.nikolaev.ua</a> 
+
+            <p align=LEFT> <b>Vinnica<br>
+
+              </b>5, Chkalov st, 28601 <br>
+
+              Tel. +380 (0432) 32-3152 <br>
+
+              E-mail: <a href="mailto:om@iskcon.vinnica.ua" class="maintext">om@iskcon.vinnica.ua</a> 
+
+            <p align=LEFT> 
+
+            <p><b>OTHER COUNTRIES</b> 
+
+            <p align=LEFT><b>Almaty, Kazakstan<br>
+
+              </b>5, Kommunarov per, 480022 <br>
+
+              Tel. +7 (327) 235-3830 or -3930<br>
+
+              E-mail: <a href="mailto:advaita@advaita.itpm.alma-ata.su" class="maintext"> 
+
+              advaita@advaita.itpm.alma-ata.su</a> 
+
+            <p align=LEFT> <b>Ashgabat, Turkmenistan<br>
+
+              </b>17-48, Ashtabayeva st. <br>
+
+              Tel. +7 (12) 29-8842 or 41-7870 Baku, Azerbaijan<br>
+
+              2, Zardobi per, Uzbekistan st, pos. 8th km. 370060 <br>
+
+              Tel. +994 (12) 21-2376 <br>
+
+              E-mail: <a href="mailto:baku@pamho.net" class="maintext"> baku@pamho.net</a> 
+
+            <p align=LEFT> <b>Bishkek, Kirgizstan<br>
+
+              </b>5, Omsky per, 720007 <br>
+
+              Tel. +7 (3312) 24-2230 or 44-3776 <br>
+
+              E-mail: <a href="mailto:ildar@nlpub.freenet.bishkek.su" class="maintext">ildar@nlpub.freenet.bishkek.su</a> 
+
+            <p align=LEFT><b>Dushanbe, Tadjikistan<br>
+
+              </b>38, Anzob st, 734001 <br>
+
+              Tel. +7 (3772) 27-1920 or -3990 
+
+            <p align=LEFT><b>Kishinev, Moldova<br>
+
+              </b>13, A. Popovich st, 277022 <br>
+
+              Tel. +373 (2) 55-8099 or 76-9254 <br>
+
+              E-mail: <a href="mailto:kishinev@cis.bbt.se" class="maintext">kishinev@cis.bbt.se</a> 
+
+            <p align=LEFT> <b>Minsk, Belarus<br>
+
+              </b>11, Pavlova st, 220053 <br>
+
+              Tel. +375 (17) 288-06-29<br>
+
+            E-mail: <a href="mailto:New.Jaipur@cis.pamho.net">New.Jaipur@cis.pamho.net</a><a href="http://newjaipur.narod.ru/"><br>
+            www.newjaipur.narod.ru</a>            <p align=LEFT><b>Sukhumi, Georgia<br>
+
+              </b>st. Pr-t Mira d 274 <br>
+
+              Tel. +995 (8122) 2-9954 
+
+            <p align=LEFT><b>Tashkent, Uzbekistan<br>
+
+              </b>54, Chervyakova st, 700005 <br>
+
+              Tel. +7 (3712) 93-0352 or 34-4612 <br>
+
+              E-mail: <a href="mailto:root@krish.tashkent.su" class="maintext">root@krish.tashkent.su</a> 
+
+            <p align=LEFT> <b>Tbilisi, Georgia<br>
+
+              </b> 16, Kacharava st, Avchalskoye sh, 380053 <br>
+
+              Tel. +995 (32) 62-3326 or 98-5812 <br>
+
+              E-mail: <a href="mailto:nandapriya.hks@pamho.net" class="maintext">nandapriya.hks@pamho.net</a> 
+
+            <p><b>RESTAURANT</b> 
+
+            <p align=LEFT><b>Almaty, Kazakstan<br>
+
+              </b>Govinda's Vegetarian Cafe<br>
+              39 Ablai Han Street<br>
+              Almaty, 
+              480004
+              <br>Tel. +7 3272 710836<br>http://www.palaceofthesoul.com<br>
+            <a href="http://www.palaceofthesoul.com">www.palaceofthesoul.com</a><br>
+            E-mail: <a href="mailto:info@palaceofthesoul.com">info@palaceofthesoul.com</a><br>
+            <a href="mailto:govindas@2000.kz">govindas@2000.kz</a>
+            <p align=LEFT><!-- #BeginLibraryItem "/Library/back_top.lbi" -->
+  <script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_displayStatusMsg(msgStr) { //v1.0
+  status=msgStr;
+  document.MM_returnValue = true;
+}
+//-->
+</script>
+  <a href="javascript:history.go(-1);" class="bottom" onMouseOver="MM_displayStatusMsg('Back to previous page');return document.MM_returnValue" onMouseOut="MM_displayStatusMsg('');return document.MM_returnValue"> 
+&lt; Back</a> <span class="bottom">&middot;</span> <a href="#top" class="bottom" onMouseOver="MM_displayStatusMsg('Top of page');return document.MM_returnValue" onMouseOut="MM_displayStatusMsg('');return document.MM_returnValue">Top 
+  ^</a><!-- #EndLibraryItem --><!-- #EndLibraryItem --><!-- #EndLibraryItem --><!-- #EndLibraryItem --><!-- #EndLibraryItem --><!-- #EndLibraryItem --><!-- #EndLibraryItem -->            
+          <!-- #EndEditable --></td>
+          <td width="125" valign="top">&nbsp;</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr> 
+    <td width="140" valign="top" bgcolor="#d8f1e4">&nbsp;</td>
+    <td width="2">&nbsp;</td>
+    <td valign="top" class="iskcon_sm" bgcolor="#d8f1e4">&nbsp; </td>
+  </tr>
+  <tr> 
+    <td colspan="3" height="2"><img src="../../images/trans_1x1.gif" width="1" height="1"></td>
+  </tr>
+</table>
+<table width="770" border="0" cellspacing="0" cellpadding="2" class="bottom">
+  <tr> 
+    <td height="1" bgcolor="#CCCCCC"><img src="../../images/trans_1x1.gif" width="2" height="1"></td>
+    <td bgcolor="#CCCCCC"><img src="../../images/trans_1x1.gif" width="728" height="1"></td>
+  </tr>
+  <tr> 
+    <td>&nbsp;</td>
+    <td><a href="../../index.html" class="bottom">Home</a> &middot; <a href="../../new/index.html" class="bottom">News</a> &middot; <a href="../../about/index.html" class="bottom">About</a> 
+      &middot; <a href="../index.html" class="bottom">Worldwide</a> 
+      &middot; <a href="../../culture/index.html" class="bottom">Culture</a> &middot; 
+      <a href="../../icj/index.html" class="bottom">ICJ</a> &middot; <a href="../../basics/index.html" class="bottom">The
+       Basics</a> &middot; <a href="../../site_info/index.html" class="bottom">Site
+        Information</a></td>
+  </tr>
+  <tr> 
+    <td>&nbsp;</td>
+    <td>&copy; 2002-2004 International Society for Krishna Consciousness (ISKCON) 
+      All Rights Reserved</td>
+  </tr>
+</table>
+</body>
+<!-- #EndTemplate --></html>

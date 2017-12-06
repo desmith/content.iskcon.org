@@ -1,0 +1,23 @@
+#content-main 		{
+	color: #362422;
+}
+
+#header {
+	background-image: url(../img/toporngeblue.jpg);
+}
+
+#linkNav {
+		background-color: #e16b0b;
+}
+
+#content-side 		{
+	background-color: #40174f;
+}
+
+#wrapper {
+	background-color: #40174f;
+}
+
+#footer {
+background-image: url(../img/bottomorngeblue.jpg);
+}

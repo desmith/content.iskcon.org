@@ -1,0 +1,36 @@
+Here's what I have done so far.
+
+I have no parampara files.
+
+The ftp details for iskcon-london.com are:
+Host/name: 217.199.169.113
+User Id: iskcon
+Pass: krishna
+
+You have to navigate up two levels and then to dir web
+- you'll see the directory called dev that I've beeen using.
+
+I will look at the home page over the next couple of days
+- other than that I await instruction ...
+pkd
+
+
+
+Here's what I have done so far.
+
+I have no parampara files.
+
+The ftp details for iskcon-london.com are:
+Host/name: 217.199.169.113
+User Id: iskcon
+Pass: krishna
+
+You have to navigate up two levels and then to dir web
+- you'll see the directory called dev that I've beeen using.
+
+I will look at the home page over the next couple of days
+- other than that I await instruction ...
+pkd
+
+
+

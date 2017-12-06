@@ -1,0 +1,6 @@
+RewriteEngine On
+<FilesMatch "\.(htm|html|php)$">
+SetHandler application/x-httpd-php
+</FilesMatch>
+RewriteCond %{HTTP_HOST} !^content.iskcon.org$ [NC]
+RewriteRule ^(.*)$ "http://content.iskcon.org/$1" [R=301,L]

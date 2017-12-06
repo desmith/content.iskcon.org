@@ -1,0 +1,23 @@
+#content-main 		{
+	color: #362422;
+}
+
+#header {
+	background-image: url(../img/topdkgreen.jpg);
+}
+
+#linkNav {
+		background-color: #85a156;
+}
+
+#content-side 		{
+	background-color: #657e3d;
+}
+
+#wrapper {
+	background-color: #657e3d;
+}
+
+#footer {
+background-image: url(../img/bottomdkgreen.jpg);
+}

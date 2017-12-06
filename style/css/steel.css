@@ -1,0 +1,23 @@
+#content-main 		{
+	color: #362422;
+}
+
+#header {
+	background-image: url(../img/topsteel.jpg);
+}
+
+#linkNav {
+		background-color: #6e7e8e;
+}
+
+#content-side 		{
+	background-color: #6e7e8e;
+}
+
+#wrapper {
+	background-color: #6e7e8e;
+}
+
+#footer {
+background-image: url(../img/bottomsteel.jpg);
+}

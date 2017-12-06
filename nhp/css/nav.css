@@ -1,0 +1,89 @@
+#divTopNav{
+	width: 800px;
+	background-repeat: no-repeat;
+	background-position: center top;
+	height: 35px;
+	font-weight: bold;
+	text-transform: uppercase;
+	color: #FFFFFF;
+	margin: 0;
+	padding: 0;
+	font-size: 11px;
+	background-image: url(../nav/background.gif);
+}
+
+#divTopNav a{
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+#divTopNav a:hover{
+	text-decoration: underline;
+}
+
+#nav ul {width: 780px;}
+
+#nav li {
+  /*float the main list items*/
+  margin: 0;
+  float: left;
+  display: block;
+  padding-right: 20px;
+  padding-top: 5px;
+  }
+
+#nav li a {
+	display: block;
+	text-align: center;
+  }
+
+
+
+#nav li ul{
+	/*put the subnavs below and hide them all*/
+  display: none;
+	top: auto;
+	height: 18px;
+	left: 160px;
+	padding-bottom: 60px;
+	position: absolute;
+  }
+
+#nav li ul a {
+  float: left;
+  
+  /*ie doesn't inherit the float*/
+}
+
+
+
+#nav li a:hover, #nav li:hover a {
+
+  }
+
+#nav li ul{
+  /*put the subnav below, reposition for IE*/
+  top: 60px;
+  *top: 50px; 
+  }
+
+
+
+#nav li a:hover, #nav li:hover a, #nav li.over a {
+text-decoration: underline;
+
+}
+
+#nav li ul a{
+	color: #000000;
+	text-decoration: none;
+	
+}
+
+#nav li ul a:hover {
+color: #666;
+}
+
+/* Remove comment after fixed #nav li.over, #nav li:hover ul { 
+  display: block;
+}*/

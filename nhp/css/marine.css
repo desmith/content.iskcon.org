@@ -1,0 +1,34 @@
+body{
+	background-image: url(../img/gradientmarine.gif);
+	background-repeat: repeat-x;
+}
+
+#divContent h2, #divContent h3, #divContent h3 a, #divContent h2 a {
+	
+	background-color: #485566;
+	color:#FFFFFF;
+	
+}
+
+#divFlashPic {
+}
+
+#divTopLeft, #divTopLeft2 {
+	background-color: #9FD6C7;
+} 
+
+#divBottomLeft {
+	background-color: #67B8B8;
+}
+
+#divBottomCentre, .divLeft, .divRight {
+	background-color: #9FD6C7;
+}
+
+#divBottomRight {
+	background-color: #E7CDAB;
+}
+
+.divLeft, .divRight{
+border-bottom: #485566;
+}

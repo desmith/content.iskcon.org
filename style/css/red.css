@@ -1,0 +1,23 @@
+#content-main 		{
+	color: #362422;
+}
+
+#header {
+	background-image: url(../img/topred.jpg);
+}
+
+#linkNav {
+		background-color: #bf5350;
+}
+
+#content-side 		{
+	background-color: #bf5350;
+}
+
+#wrapper {
+	background-color: #bf5350;
+}
+
+#footer {
+background-image: url(../img/bottomred.jpg);
+}

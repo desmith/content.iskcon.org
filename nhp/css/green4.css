@@ -1,0 +1,34 @@
+body{
+	background-image: url(../img/gradientgreen3.gif);
+	background-repeat: repeat-x;
+}
+
+#divContent h2, #divContent h3, #divContent h3 a, #divContent h2 a {
+	
+	background-color: #649EA7;
+	color:#FFFFFF;
+}
+
+#divFlashPic {
+	background-color: #FAE4C5;
+}
+
+#divTopLeft, #divTopLeft2 {
+	background-color: #8FBFB9;
+} 
+
+#divBottomLeft {
+	background-color: #8FBFB9;
+}
+
+#divBottomCentre, .divLeft, .divRight {
+	background-color: #E0F3B2;
+}
+
+#divBottomRight {
+	background-color: #EEFAA8;
+}
+
+.divLeft, .divRight{
+border-bottom: #649EA7;
+}

@@ -1,0 +1,154 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Untitled Document</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<style type="text/css" media="all">@import "css/new.css";</style>
+<link href="css/blue.css"   rel="alternate stylesheet" type="text/css" title="blue" disabled="true"/>
+<link href="css/green.css"  rel="alternate stylesheet" type="text/css" title="green" />
+<link href="css/green1.css" rel="alternate stylesheet" type="text/css" title="green1" />
+<link href="css/green2.css" rel="alternate stylesheet" type="text/css" title="green2" />
+<link href="css/green3.css" rel="alternate stylesheet" type="text/css" title="green3" />
+<link href="css/green4.css" rel="alternate stylesheet" type="text/css" title="green4" />
+<link href="css/marine.css" rel="alternate stylesheet" type="text/css" title="marine" />
+<link href="css/grey.css"   rel="alternate stylesheet" type="text/css" title="grey" />
+<link href="css/blue.css"   rel="alternate stylesheet" type="text/css" title="blue" /> 
+
+<script src="js/switcher.js" type="text/javascript"></script>
+
+
+<script language="JavaScript" type="text/javascript">
+<!--
+function P7_autoHide() { //v1.3 by PVII
+ var i,g,args=P7_autoHide.arguments;
+ for(i=0;i<args.length;i++){if((g=MM_findObj(args[i]))!=null){
+  g.p7aHide=true;if(document.layers){
+  g.captureEvents(Event.MOUSEOUT);}g.onmouseout=P7_hideDiv;g.p7ahD=true;}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function P7_hideDiv(evt) { //v1.3 by PVII
+ var b,relT,mT=false; 
+ if(document.layers){b=evt.target;if(b.p7aHide){
+  b.visibility="hidden";}else{routeEvent(evt);}
+ }else if(document.all&&!window.opera){b=event.srcElement;
+  while(b!=null){if(b.tagName=="DIV" && b.p7ahD){mT=true;break;}b=b.parentElement;}
+  if(!b.contains(event.toElement)){b.style.visibility="hidden";}
+ }else if(document.getElementById){b=evt.currentTarget;relT=evt.relatedTarget;
+  while(relT!=null){if(b==relT){mT=true;break;}
+  relT=relT.parentNode;}if(!mT){b.style.visibility="hidden";}}
+}
+
+function P7_autoLayers() { //v1.4 by PVII
+ var g,b,k,f,args=P7_autoLayers.arguments;a=parseInt(args[0]);if(isNaN(a))a=0;
+ if(!document.p7setc){p7c=new Array();document.p7setc=true;for(var u=0;u<10;u++){
+ p7c[u]=new Array();}}for(k=0;k<p7c[a].length;k++){if((g=MM_findObj(p7c[a][k]))!=null){
+ b=(document.layers)?g:g.style;b.visibility="hidden";}}for(k=1;k<args.length;k++){
+ if((g=MM_findObj(args[k]))!=null){b=(document.layers)?g:g.style;b.visibility="visible";f=false;
+ for(var j=0;j<p7c[a].length;j++){if(args[k]==p7c[a][j]) {f=true;}}
+ if(!f){p7c[a][p7c[a].length++]=args[k];}}}
+}
+//-->
+</script>
+
+<link href="css/main.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+<div id="divMainNav">
+<div id="divTitle"><img src="img/iskcon.gif" width="118" height="20"></div>
+<div id="divTopNav">
+      <table width="486" border="0" cellpadding="0" cellspacing="0" align="left">
+      <tr>
+        <td width="43" onMouseOver="P7_autoLayers(0,'Blank')"><a href="../index.html">Home</a></td>
+        <td width="4">&middot;</td>
+        <td width="42" onMouseOver="P7_autoLayers(0,'NewsDetail')"><a href="../new/index.html">News</a></td>
+        <td width="10">&middot;</td>
+        <td width="45" onMouseOver="P7_autoLayers(0,'AboutDetail')"><a href="../about/index.html">about</a></td>
+        <td width="4">&middot;</td>
+        <td width="90" onMouseOver="P7_autoLayers(0,'WorlDetail')"><a href="../worldwide/index.html">worldwide</a></td>
+        <td width="4">&middot;</td>
+        <td width="62" onMouseOver="P7_autoLayers(0,'CultureDetail')"><a href="../culture/index.html">culture</a></td>
+        <td width="4">&middot;</td>
+        <td width="26" onMouseOver="P7_autoLayers(0,'ICJDetail')"><a href="../icj/index.html">icj</a></td>
+        <td width="4">&middot;</td>
+        <td width="75" onMouseOver="P7_autoLayers(0,'BasicsDetail')"><a href="../education/index.htm">Education</a></td>
+        <td width="4">&middot;</td>
+        <td width="69" onMouseOver="P7_autoLayers(0,'Blank')"><a href="../site_info/index.html">site info</a> </td>
+      </tr>
+    </table>
+ 
+  <div id="NewsDetail" class ="subMenu">
+      <a href="../new/index.html#in">ISKCON News</a> &middot; <a href="../myIskcon/gallery.htm">Photo Gallery</a> &middot; <a href="../new/index.html#me">Media Eye</a>
+    </div>
+  <div id="CultureDetail" class ="subMenu">
+    <a href="../culture/index.html">Culture Home</a> &middot; <a href="../culture/festival_year/index.html">Festival Year</a> &middot; <a href="../culture/holy_places/index.html">Holy Places</a> &middot; <a href="../culture/visual_arts/index.html">Galleries</a> &middot; <a href="../culture/music/index.html">Music</a> &middot; <a href="../culture/food/index.html">Food</a>
+    </div>
+  <div id="BasicsDetail" class ="subMenu">
+   <a href="../education/index.htm">Education Home</a> &middot; <a href="../education/audio.htm">Audio</a> &middot; <a href="../education/mtebooks.htm">Handbooks</a> &middot; <a href="../education/index.htm">Centres</a>
+  </div>
+  <div id="ICJDetail" class ="subMenu">
+<a href="../icj/index.html">ICJ Home </a> &middot; <a href="../icj/contents.html">Issues Online</a> &middot; <a href="../icj/article_authors.html">Articles by Author</a> &middot; <a href="../icj/article_index.html">Articles by Title</a> &middot; <a href="../icj/info.html">Info</a> &middot; <a href="../icj/subscriptions.html">Subscribe</a>
+  </div>
+  <div id="WorlDetail" class ="subMenu">
+<a href="../worldwide/index.html">Worldwide Home</a> &middot; <a href="../worldwide/centres/index.html">Centres</a> &middot; <a href="../worldwide/projects/index.html">Projects</a>
+  </div>
+  <div id="AboutDetail" class ="subMenu">
+<a href="../about/index.html">About Home</a> &middot; <a href="../about/mission.html">Mission</a> &middot; <a href="../about/philosophy.html">Philosophy</a> &middot; <a href="../about/structure.html">Structure</a> &middot; <a href="../about/history.html">History</a> &middot; <a href="../about/parampara/index.html">Succession</a>
+    </div>
+  </div>
+<div id="divFlashPic"><img src="img/gaura.jpg" width="509" height="233"></div>
+<div id="divTopLeft"><img src="img/radha.gif" width="79" height="90" class="right">
+  <h2>iskcon.com</h2>
+  <p>iskcon.com is the official website of the International Society for Krishna Consciousness </p>
+</div>
+<div id="divTopLeft2"><img src="img/krishna.gif" width="110" height="139" class="left">
+  <h2>Galleries</h2>
+  <p>Windows to the Spiritual World: ISKCON's artists bring new life to an ancient artistic tradition </p>
+</div>
+
+
+<div class="clearer"></div>
+<div id="divBottomLeft">
+  <h2>ISKCON News </h2>
+  <p>para text para text para text para text para text para para text para text para text para text para text </p>
+  <p>para text para text para text para text para text para para text para text para text para text para text </p>
+</div>
+<div id="divBottomRight">
+  <h2>Meet the Devotees </h2>
+  <p>para text para text para text para text para text para para text para text para text para text para text </p>
+  <p>para text para text para text para text para text para para text para text para text para text para text </p>
+</div>
+<div id="divBottomCentre">
+  <h2>Library</h2>
+  <p>para text para text para text para text para text para para text para text para text para text para text </p>
+  <p>para text para text para text para text para text para para text para text para text para text para text </p>
+</div>
+  <div class="clearer"></div>
+</div>
+<div id="style-switcher" align = "center" decoration = "none">
+<!-- This is only for the switching, all the content divs end above-->
+<a href="#" onclick="setActiveStyleSheet('blue'); return false;" title="Switch to Blue"     id="blue">  <img src="swatches/blue.jpg" width="40" height="25" alt="blue" />  </a>
+<a href="#" onclick="setActiveStyleSheet('bright'); return false;" title="Switch to Bright" id="bright"><img src="swatches/bright.jpg" width="40" height="25"  alt="bright" /></a>
+<a href="#" onclick="setActiveStyleSheet('marine'); return false;" title="Switch to Marine"  id="marine"><img src="swatches/marine.jpg" width="40" height="25" alt="marine" /> </a>
+<a href="#" onclick="setActiveStyleSheet('green'); return false;" title="Switch to Green"   id="green"> <img src="swatches/green.jpg" width="40" height="25" alt="green" />  </a>
+<a href="#" onclick="setActiveStyleSheet('green1'); return false;" title="Switch to Green1" id="green1"><img src="swatches/green1.jpg" width="40" height="25" alt="green1" /> </a>
+<a href="#" onclick="setActiveStyleSheet('green2'); return false;" title="Switch to Green2" id="green2"><img src="swatches/green2.jpg" width="40" height="25" alt="green2" /> </a>
+<a href="#" onclick="setActiveStyleSheet('green3'); return false;" title="Switch to Green3" id="green3"><img src="swatches/green3.jpg" width="40" height="25" alt="green3" /> </a>
+<a href="#" onclick="setActiveStyleSheet('green4'); return false;" title="Switch to Green4" id="green4"><img src="swatches/green4.jpg" width="40" height="25" alt="green4" /> </a>
+<a href="#" onclick="setActiveStyleSheet('grey'); return false;" title="Switch to Grey"     id="grey">  <img src="swatches/grey.jpg" width="40" height="25" alt="grey" />   </a>
+</div>
+
+
+
+<!--  ends main nav -->
+</body>
+</html>

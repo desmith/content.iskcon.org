@@ -1,0 +1,23 @@
+#content-main 		{
+	color: #362422;
+}
+
+#header {
+	background-image: url(../img/toproyalblue.jpg);
+}
+
+#linkNav {
+		background-color: #6978bd;
+}
+
+#content-side 		{
+	background-color: #6978bd;
+}
+
+#wrapper {
+	background-color: #6978bd;
+}
+
+#footer {
+background-image: url(../img/bottomroyalblue.jpg);
+}

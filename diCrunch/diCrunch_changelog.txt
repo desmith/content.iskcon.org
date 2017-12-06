@@ -1,0 +1,57 @@
+﻿
+''' 2.0 Beta 4.3 - 21:17, 15 January 2007 (EST)'''
+* Added custom replacement preference field
+* Included a changelog-file (this file) into the zip
+
+''' 2.0 Beta 4.2 - 5:17, 15 January 2007 (EST)'''
+* Some changes under Help
+* A font size definition box under preferences
+* A few capital characters added to the incomplete Shakti encoding
+* Some minor tweaks that don't merit documenting
+
+''' 2.0 Beta 4.1 - 5:17, 14 January 2007 (EST)'''
+* Minor bug fixes
+
+''' 2.0 Beta 4 - 04:03, 13 January 2007 (EST)'''
+* Options: A split screen for separate source and target texts.
+* Tools: Feedback Module
+
+
+''' 2.0 Beta 4 - 04:03, 13 January 2007 (EST)'''
+* Options: A split screen for separate source and target texts.
+* Tools: Feedback Module
+
+''' 2.0 Beta 3 - 08:44, 12 January 2007 (EST)'''
+* A Tools section featuring a Macro Producer.
+
+Supporting:
+
+* Creation of MS Word macros for any of the supported diacritics conversions.
+* Creation of custom macros from templates.
+
+'''2.0 Beta 2 - 02:57, 11 January 2007 (EST)'''
+* Swap Y -preference
+* Saving "more options" choices as default under preferences
+* Added conversions: Shakti Mac (partial) and X-Sanskrit (old BBT)
+* Implemented new XHK extensions
+* Completed Velthuis and ITRANS character arrays
+* Updated Help area texts
+* Moved Preferences and Help links to top
+* Changed processing time to 5 seconds
+
+''' 2.0 Beta 1 - 08:00, 10 January 2007 (EST)'''
+* Style brushed up on
+* File input and output
+* Switches to modify output
+* Devanagari debugged
+* Oriya (experimental - Windows XP doesn't support it that well.)
+* Saving preferences
+* Help-page and license
+----
+* '''v1.30''' - Bengali debugged, CSX, ITRANS, Velthuis and Devanagari script (experimental) added. - 07:14, 28 December 2006 (EST)
+* '''v1.20''' - Bengali script to transliteration conversion introduced. - 21:02, 5 June 2006 (EDT)
+* '''v1.11''' - Fixed a small bug with Unicode '''ṛ'''. - 15:54, 4 June 2006 (EDT)
+* '''v1.10''' - Full XHK and experimental Bengali support added. Checkbox for adding italics and indentation for transliteration is there, too, to speed up editors' work. Small bugs fixed.  - 17:38, 1 June 2006 (EDT)
+* '''v1.01''' - Added the possibility to bookmark different defaults. - 05:46, 26 May 2006 (EDT)
+* '''v1.00''' - First release - no changes yet!  - 22:20, 25 May 2006 (EDT)
+
