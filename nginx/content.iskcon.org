@@ -1,7 +1,20 @@
 server {
-  server_name
-    .content.iskcon.org
-  ;
-  root /var/www/content.iskcon.org;
+	listen 80;
+	server_name
+		content.iskcon.org
+	;
+	root /var/www/content.iskcon.org;
+
+	listen 443 ssl; # managed by Certbot
+
+	ssl_certificate /etc/letsencrypt/live/devaprastha.info/fullchain.pem; # managed by Certbot
+
+	if ($scheme != "https") {
+		return 301 https://$host$request_uri;
+	} # managed by Certbot
+
+	ssl_certificate_key /etc/letsencrypt/live/devaprastha.info/privkey.pem; # managed by Certbot
+	include /etc/letsencrypt/options-ssl-nginx.conf; # managed by Certbot
+	ssl_dhparam /etc/letsencrypt/ssl-dhparams.pem; # managed by Certbot
 
 }
